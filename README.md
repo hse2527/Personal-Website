@@ -1,2 +1,3 @@
 # Personal-Website
-Personal Website Project
+This is a repository for my personal website project
+
