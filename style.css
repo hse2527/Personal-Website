@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+  
+  display: grid;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-size: 150px;
+}
+
+p {
+  color: black;
+  font-size: 75px;
+}
